@@ -1,28 +1,49 @@
 # ╔═══════════╗
-# ║ Student 1 ║
+# ║ Laura Verheyden ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
+  time: 3
+  task: Briefing.
+-
+  time: 2.5
+  task: Installatie.
+-
+  time: 3
+  task: Concept
+-
+  time: 3
+  task: Concept
+-
+  time: 2
+  task: Concept
+-
   time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  task: Elevator pitch
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Smartwatch-app
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Smartwatch-app
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Smartwatch-app
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Smartphone-app
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Smartphoone-app
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Smartphone-app
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Smartphone-app
+-
+  time: 3
+  task: Samen werken en gaten opvullen
+-
+  time: 0
+  task: 

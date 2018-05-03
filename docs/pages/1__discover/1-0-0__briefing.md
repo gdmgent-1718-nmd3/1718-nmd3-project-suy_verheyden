@@ -13,8 +13,8 @@ Opdracht
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - «Emma» «Suy»
+ - «Laura» «Verheyden»
 
-Gekozen Museum
+Gekozen: Museum De Reede
 --------------

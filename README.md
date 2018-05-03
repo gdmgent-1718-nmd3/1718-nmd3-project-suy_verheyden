@@ -3,8 +3,8 @@ New Media Design III 2017-2018
 
 Studenten:
 
- - «JULIE» «VAN DE WEERD»
- - «JULIE» «MATTELAER»
+ - «Laura» «Verheyden»
+ - «Emma» «Suy»
 
 > Artevelde University College Ghent
 

@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
+![styletile3]({{ 'assets/img/ideaboard.png' | relative_url }}){:.journey}

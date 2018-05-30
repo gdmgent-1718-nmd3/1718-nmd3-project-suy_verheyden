@@ -24,7 +24,7 @@ Bluetooth
 312 x 390 pixels (42 mm)
 Tot 18 uur batterij
 
-
+![smartwatch]({{ 'assets/img/watch.png' | relative_url }}){:.techana}
 
 Iphone 6:
 
@@ -50,3 +50,5 @@ Typ vragen aan Siri
 Bijschriften voor spraak en geluiden
 AssistiveTouch
 Spreek scherm uit
+
+![iphone6]({{ 'assets/img/iphone6.png' | relative_url }}){:.techana}

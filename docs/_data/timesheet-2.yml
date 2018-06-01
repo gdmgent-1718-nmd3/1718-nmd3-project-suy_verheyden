@@ -1,52 +1,85 @@
 # ╔═══════════╗
-# ║ Emma Suy  ║
+# ║ Verheyden Laura ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 3
+  time: 0.75
   task: Briefing.
 -
-  time: 2.5
-  task: Installatie.
+  time: 0.50
+  task: Museum zoeken
 -
-  time: 0.75
-  task: Vragenlijst opstellen en cursus doorlezen.
+  time: 4.00
+  task: Museumbezoek
 -
-  time: 3
+  time: 2.00
+  task: Analyse - museumbezoek
+-
+  time: 1.50
+  task: Analyse - technische analyse
+-
+  time: 2.00
+  task: Analyse - persona
+-
+  time: 0.50
+  task: Analyse - scenario
+-
+  time: 3.50
+  task: Analyse - journey maps
+-
+  time: 2.00
   task: Concept
 -
-  time: 3
-  task: Concept
+  time: 2.50
+  task: Concept - elevator pitch
 -
-  time: 2
-  task: Concept
+  time: 1.75
+  task: Concept - ideaboard
 -
-  time: 0.25
-  task: Elevator pitch
+  time: 4.00
+  task: Concept - style tiles
 -
-  time: 3
-  task: Smartwatch-app
+  time: 2.50
+  task: Smartwatch-app - research
 -
-  time: 3
-  task: Smartwatch-app
+  time: 2.00
+  task: Smartwatch-app - wireflow op papier
 -
-  time: 3
-  task: Smartwatch-app
+  time: 4.50
+  task: Smartwatch-app - paper prototype
 -
-  time: 3
-  task: Smartphone-app
+  time: 2.25
+  task: Smartwatch-app - gebruikerstesten
 -
-  time: 3
-  task: Smartphoone-app
+  time: 5.50
+  task: Smartwatch-app - visual design
 -
-  time: 3
-  task: Smartphone-app
+  time: 2.25
+  task: Smartphone-app - research
 -
-  time: 3
-  task: Smartphone-app
+  time: 4.00
+  task: Smartphone-app - wireflow/prototype
 -
-  time: 3
-  task: Samen werken en gaten opvullen
+  time: 3.00
+  task: Smartphone-app - gebruikerstesten
 -
-  time: 0
-  task: 
+  time: 6.50
+  task: Smartphone-app - visual design
+-
+  time: 0.50
+  task: Website - sitemap
+-
+  time: 5.50
+  task: Website - wireframes
+-
+  time: 4.25
+  task: Website - visual design
+-
+  time: 1.00
+  task: Website - prototype
+-
+  time: 6.00
+  task: Digital UI Style Guide
+-
+  time: 9.00
+  task: Productdossier

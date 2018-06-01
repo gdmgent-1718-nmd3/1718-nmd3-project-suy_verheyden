@@ -1,5 +1,5 @@
 # ╔═══════════╗
-# ║ Laura Verheyden ║
+# ║ Suy Emma ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
@@ -8,6 +8,9 @@
 -
   time: 2.5
   task: Installatie.
+-
+  time: 0.75
+  task: Vragenlijst opstellen en cursus doorlezen.
 -
   time: 3
   task: Concept
@@ -34,7 +37,7 @@
   task: Smartphone-app
 -
   time: 3
-  task: Smartphoone-app
+  task: Smartphone-app
 -
   time: 3
   task: Smartphone-app

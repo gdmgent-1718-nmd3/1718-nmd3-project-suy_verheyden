@@ -9,12 +9,19 @@ title: Briefing
 
 Opdracht
 --------
+We werden gevraagd een app te maken voor een smartphone en smartwatch. Deze om de museumbezoeker een nieuwe gebruikersbeleving te geven. Nadien kregen we nog de opdracht om een website te maken waarmee we onze app gaan promoten.
 
 Teamleden
 ---------
 
- - «Emma» «Suy»
- - «Laura» «Verheyden»
+ - Emma Suy
+ - Laura Verheyden
 
-Gekozen: Museum De Reede
+Museum De Reede
 --------------
+Museum De Reede is gelegen in de Ernest van Dijckkaai te Antwerpen.
+
+Het museum is geopend in 2017 en vertoont er het werk van 3 kunstenaar, genaamd Francisco Goya, Félicien Rops en Edvard Munch. De collectie bestaat uit werken op papier: litho's, etsen, hotdrukken en tekeningen.
+Er zijn ook tijdelijke tenstoonstellingen te zien en deze krijgen zowel een monografisch als thematisch karakter.
+
+![kunstenaars]({{ 'assets/img/kunstenaars.jpg' | relative_url }}){:.journey}

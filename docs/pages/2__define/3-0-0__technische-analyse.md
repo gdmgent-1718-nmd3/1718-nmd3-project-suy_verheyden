@@ -7,48 +7,59 @@ published: true
 title: Technische Analyse
 ---
 
-Smartwatch: Apple series 3:
+### Smartwatch: Apple series 3:
+![smartwatch]({{ 'assets/img/watch.jpg' | relative_url }}){:.techana}
 
-GPS, GLONASS, Galileo en QZSS
-Barometrische hoogtemeter
-Waterbestendig tot 50 meter
-Hartslagsensor
-Versnellings­meter
-Gyroscoop
-Omgevings­licht­sensor
-Capaciteit van 8 GB
-Achterzijde van composiet
-Wifi
-Bluetooth
-272 x 340 pixels (38 mm)
-312 x 390 pixels (42 mm)
-Tot 18 uur batterij
+- GPS, GLONASS, Galileo en QZSS
+- barometrische hoogtemeter
+- **waterbestendig** tot 50 meter: je kan hem dus ook dragen tijdens het zwemmen
+- versnellings­meter
+- gyroscoop
+- omgevings­licht­sensor
+- capaciteit van 8 GB
+- achterzijde van composiet
+- **wifi & bluetooth**
+- 272 x 340 pixels (38 mm)
+- 312 x 390 pixels (42 mm)
+- Tot 18 uur batterij
+- **smartphone functies:** berichten verzenden, berichten ontvangen, muziek, bellen, notificaties ontvangen
+- checken van de tijd
+- dataverbinding
+- communiceren met siri
+- **GPS sensor** toont je snelheid, afgelegde route en afstand
 
-![smartwatch]({{ 'assets/img/watch.png' | relative_url }}){:.techana}
+**Het meet:**
+- hartslag
+- afstand
+- stappen
+- slaap
+- traptreden
+- calorieverbranding
+- **locatie**
 
-Iphone 6:
+--------------
+### Iphone 6:
+![iphone6]({{ 'assets/img/iphone.jpg' | relative_url }}){:.techana}
 
-4‑inch (diagonaal) lcd-breedbeeld­display
-Resolutie van 1136 x 640 pixels bij 326 ppi
-12‑MP camera
-Wifi
-Bluetooth
-Assisted GPS en GLONASS
-Digitaal kompas
-Mobiel netwerk
-Audioweergave
-Versnellingsmeter
-Nabijheidssensor
-Omgevingslichtsensor
-VoiceOver
-Zoomen
-Vergrootglas
-Schakelbediening
-Teksttelefoon­software
-Siri en dicteerfunctie
-Typ vragen aan Siri
-Bijschriften voor spraak en geluiden
-AssistiveTouch
-Spreek scherm uit
+- 4‑inch (diagonaal) lcd-breedbeeld­display
+- resolutie van 1136 x 640 pixels bij 326 ppi
+- 12‑MP camera
+- **wifi & bluetooth**
+- assisted **GPS** en GLONASS
+- digitaal kompas
+- mobiel netwerk
+- audioweergave
+- versnellingsmeter
+- nabijheidssensor
+- omgevingslichtsensor
+- VoiceOver
+- **zoomen**
+- vergrootglas
+- schakelbediening
+- **stappenteller**
+- vingerafdruksensor
+- teksttelefoon­software
+- siri en dicteerfunctie
+- batterijduur: tussen 6 à 7 uur
+- draadloos oplaadbaar
 
-![iphone6]({{ 'assets/img/iphone6.png' | relative_url }}){:.techana}

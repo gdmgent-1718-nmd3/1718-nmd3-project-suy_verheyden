@@ -7,7 +7,7 @@ published: true
 title: Technische Analyse
 ---
 
-### Smartwatch: Apple series 3:
+## Smartwatch: Apple series 3:
 ![smartwatch]({{ 'assets/img/watch.jpg' | relative_url }}){:.techana}
 
 - GPS, GLONASS, Galileo en QZSS
@@ -38,7 +38,7 @@ title: Technische Analyse
 - **locatie**
 
 --------------
-### Iphone 6:
+## Iphone 6:
 ![iphone6]({{ 'assets/img/iphone.jpg' | relative_url }}){:.techana}
 
 - 4‑inch (diagonaal) lcd-breedbeeld­display

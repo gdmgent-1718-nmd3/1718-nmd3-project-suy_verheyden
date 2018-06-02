@@ -8,3 +8,4 @@ title: Wireflow
 ---
 
 
+![wireflow smartwatch]({{ 'assets/img/smartwatchwireflow.png' | relative_url }}){:.journey}

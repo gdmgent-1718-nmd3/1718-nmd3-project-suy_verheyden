@@ -1,0 +1,193 @@
+.buttonrood{
+    width:300px;
+    height: 50px;
+    background-color: #CD5B1C;
+    color:white;
+    font-family: 'Titillium Web';
+    font-size: 16pt;
+    border: 2px;
+    border-radius: 20px
+}
+
+.buttonblauw{
+    width:300px;
+    height: 50px;
+    background-color: #98C8CA;
+    color:white;
+    font-family: 'Titillium Web';
+    font-size: 16pt;
+    border: 10px;
+    border-radius: 20px
+}
+
+.buttongrijs{
+    width:300px;
+    height: 50px;
+    background-color: #666666;
+    color:white;
+    font-family: 'Titillium Web';
+    font-size: 16pt;
+    border: 10px;
+    border-radius: 20px
+}
+
+.staticrood:hover{
+    width:300px;
+    height: 50px;
+    background-color: #CD5B1C;
+    color:white;
+    font-family: 'Titillium Web';
+    font-size: 16pt;
+    border: 2px;
+    border-radius: 20px
+}
+
+.staticblauw:hover{
+    width:300px;
+    height: 50px;
+    background-color: #98C8CA;
+    color:white;
+    font-family: 'Titillium Web';
+    font-size: 16pt;
+    border: 10px;
+    border-radius: 20px
+}
+
+.staticgrijs:hover{
+    width:300px;
+    height: 50px;
+    background-color: #666666;
+    color:white;
+    font-family: 'Titillium Web';
+    font-size: 16pt;
+    border: 10px;
+    border-radius: 20px
+}
+
+
+.staticrood{
+    width:300px;
+    height: 50px;
+    color:#CD5B1C;
+    font-family: 'Titillium Web';
+    font-size: 16pt;
+    border: 2px;
+    border-style:solid;
+    border-color:#CD5B1C;
+    border-radius: 20px
+}
+
+.staticblauw{
+    width:300px;
+    height: 50px;
+    color:#98C8CA;
+    font-family: 'Titillium Web';
+    font-size: 16pt;
+    border: 2px;
+    border-style:solid;
+    border-color:#98C8CA;
+    border-radius: 20px
+}
+
+.staticgrijs{
+    width:300px;
+    height: 50px;
+    color:#666666;
+    font-family: 'Titillium Web';
+    font-size: 16pt;
+    border: 2px;
+    border-style:solid;
+    border-color:#666666;
+    border-radius: 20px
+}
+
+h1{
+    font-family: "Titillium Web", serif;
+    color:#CD5B1C;
+    font-weight: 500
+}
+
+.iconen{
+    width:300px
+}
+
+.kleur{
+    width:100%
+}
+
+.app{
+    font-family: "Titillium Web", serif;
+    font-weight: 500;
+    font-size: 20pt;
+
+}
+
+h2{
+    font-family: "Titillium Web", serif;
+    font-size: 30pt;
+    font-weight: 700
+}
+
+.papp{
+    font-family: "Avenir Next", serif;
+    font-size: 18pt;
+    font-weight: 300
+}
+
+input[type=text], select, textarea {
+    font-family: "Avenir Next", serif;
+    width: 100%; 
+    padding: 12px; 
+    border: 2px solid #CD5B1C; 
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+}
+
+
+input[type=submit] {
+    font-family: "Avenir Next", serif;
+    background-color:#CD5B1C;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color:white;
+    color: #CD5B1C;
+    border:2px;
+    border-style:solid;
+    border-color:#CD5B1C
+}
+
+
+.container {
+    border-radius: 5px;
+    border:2px;
+    
+    padding: 20px;
+    margin-bottom: 100px;
+}
+
+.project{
+  border:solid;
+  color:black
+  
+}
+.project:hover{
+  border:solid;
+  color:#c9484d;
+  }
+  
+a{
+   text-decoration:none
+ }
+
+
+
+

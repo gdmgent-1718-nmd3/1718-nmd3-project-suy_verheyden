@@ -7,5 +7,12 @@ published: true
 title: Gebruikerstests
 ---
 
-Paper Prototype
+## Paper Prototype
 ---------------
+
+## Verslag
+---------------
+
+- Geen home knop op elke pagina
+- Geen eindpagina
+- 

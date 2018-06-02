@@ -10,7 +10,7 @@ title: Planning
     <thead>
         <th class="thead">Taak</th>
         <th class="thead">Deadline</th>
-    </thead>                
+    </thead>
 <tbody>
     <tr>
         <td>Museumbezoek</td>
@@ -42,7 +42,7 @@ title: Planning
     </tr>
     <tr>
         <td>Productiedossier</td>
-        <td>02/05/2018</td>
+        <td>02/06/2018</td>
     </tr>
         
 </tbody>

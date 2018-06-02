@@ -6,3 +6,8 @@ published: true
 # ─────────────────────
 title: Sitemap
 ---
+
+
+
+
+![sitemap]({{ 'assets/img/sitemap.png' | relative_url }}){:.sitemap}

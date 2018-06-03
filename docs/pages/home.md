@@ -10,5 +10,5 @@ title: Opdracht NMD-III
 Wie zijn we?
 ------------
 
- - «Emma» «Suy», 2CMO-GD
- - «Laura» «Verheyden», 2CMO-GD
+ - Emma Suy, 2CMO-GD
+ - Laura Verheyden, 2CMO-GD

@@ -13,6 +13,9 @@
   task: Vragenlijst opstellen en cursus doorlezen.
 -
   time: 3
+  task: Research
+-
+  time: 3
   task: Concept
 -
   time: 3
@@ -23,6 +26,9 @@
 -
   time: 0.25
   task: Elevator pitch
+-
+  time: 3
+  task: Research
 -
   time: 3
   task: Smartwatch-app
@@ -48,5 +54,23 @@
   time: 3
   task: Samen werken en gaten opvullen
 -
-  time: 0
-  task: 
+  time: 3
+  task: Gaten opvullen
+-
+  time: 3
+  task: Research
+-
+  time: 3
+  task: Visuals smartphone
+-
+  time: 3
+  task: Visuals smartphone
+-
+  time: 3
+  task: Productiedossier
+-
+  time: 3
+  task: Productiedossier (gaten opvullen)
+-
+  time: 3
+  task: Gaten opvullen

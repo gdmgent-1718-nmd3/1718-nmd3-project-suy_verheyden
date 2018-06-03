@@ -6,3 +6,6 @@ published: true
 # ─────────────────────
 title: Wireframes
 ---
+HOME 0.0 
+
+![wireframe website]({{ 'assets/img/websitewireframe.png' | relative_url }}){:.journey}

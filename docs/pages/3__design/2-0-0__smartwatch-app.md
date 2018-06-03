@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Smartwatch-app
 ---
+![smartwatch app]({{ 'assets/img/smartwatchapp.png' | relative_url }}){:.journey}

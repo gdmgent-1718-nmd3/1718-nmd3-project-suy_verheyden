@@ -7,6 +7,8 @@ published: true
 title: Technische Analyse
 ---
 
+
+
 ## Smartwatch: Apple series 3:
 ![smartwatch]({{ 'assets/img/watch.jpg' | relative_url }}){:.techana}
 

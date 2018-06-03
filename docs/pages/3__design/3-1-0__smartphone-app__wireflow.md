@@ -6,3 +6,6 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
+
+
+![wireflow smartphone]({{ 'assets/img/smartphonewireflow.png' | relative_url }}){:.journey}

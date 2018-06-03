@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+
+![smartwatch-app]({{ 'assets/img/smartwatchvisuals.png' | relative_url }}){:.journey}

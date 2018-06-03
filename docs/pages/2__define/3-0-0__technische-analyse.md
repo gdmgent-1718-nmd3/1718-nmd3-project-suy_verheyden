@@ -9,7 +9,8 @@ title: Technische Analyse
 
 
 
-## Smartwatch: Apple series 3: | ![smartwatch]({{ 'assets/img/watch.jpg' | relative_url }}){:.techana} |
+## Smartwatch: Apple series 3: 
+ ![smartwatch]({{ 'assets/img/watch.jpg' | relative_url }}){:.techana} 
 
 
 **Wat kan hij:**
@@ -41,7 +42,8 @@ title: Technische Analyse
  - **locatie**
 
 --------------
-## Iphone 6: | ![iphone6]({{ 'assets/img/iphone.jpg' | relative_url }}){:.techana} |
+## Iphone 6: 
+![iphone6]({{ 'assets/img/iphone.jpg' | relative_url }}){:.techana} 
 
 
 **Wat kan hij:**

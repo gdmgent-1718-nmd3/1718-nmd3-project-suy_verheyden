@@ -6,6 +6,6 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
-
+<a href="" target="_blank"> SMARTPHONE DESIGN </a>
 
 ![visuals smartphone]({{ 'assets/img/smartphonevisuals.png' | relative_url }}){:.journey}

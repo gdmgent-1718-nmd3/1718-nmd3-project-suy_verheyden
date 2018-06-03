@@ -9,7 +9,7 @@ title: Gebruikerstests
 
 ## Paper Prototype
 ---------------
-<a href="" target="_blank"> GEBRUIKERSTEST SMARTWATCH </a>
+<a href="https://youtu.be/MrUtf0ewTYM" target="_blank"> GEBRUIKERSTEST SMARTWATCH </a>
 ## Verslag
 ---------------
 Tijdens de gebruikerstest kwamen enkele belangrijke zaken naar boven zoals: 
